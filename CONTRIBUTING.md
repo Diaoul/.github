@@ -1,11 +1,11 @@
 # Contribution guidelines
 
-Thank you for taking the time to contribute!
+Thank you for taking the time to contribute! 🎉💪
 
 These guidelines apply to every [Diaoul](https://github.com/Diaoul) repository. A repository may add or
 refine rules in its own `CONTRIBUTING.md`; when it does, that file takes precedence over this one.
 
-## AI usage policy
+## 🤖 AI usage policy
 
 > [!IMPORTANT]
 > AI-assisted contributions are welcome if they follow this policy. Contributions that don't, including
@@ -52,7 +52,7 @@ Example:
 A repository may publish a stricter or more detailed AI policy (e.g. in an `AGENTS.md` file); when it does,
 that policy takes precedence.
 
-## Issues
+## 🐛 Issues
 
 Search the issue tracker first: your problem may already be reported, and the discussion may hold a
 workaround.
@@ -72,7 +72,7 @@ the design before writing code; a small one can go straight to a pull request.
 
 Don't open a public issue. Follow the [security policy](https://github.com/Diaoul/.github/blob/main/SECURITY.md).
 
-## Pull requests
+## 🔀 Pull requests
 
 - Search open and closed pull requests first, so you don't duplicate work.
 - Keep each pull request to one change. Add tests when the repository has them, and make sure CI passes.
@@ -103,8 +103,3 @@ Add `!` after the type, on `feat` or `fix` only, when the change is not backward
 `fix!: rename deprecated config key`.
 
 Only the pull request title has to follow this format, not individual commits.
-
----
-
-Adapted from the [home-operations contribution guidelines](https://github.com/home-operations/.github/blob/main/CONTRIBUTING.md)
-(Apache-2.0): trimmed for a single maintainer.
